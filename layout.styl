@@ -1,0 +1,37 @@
+header-height = 50px
+footer-height = 20px
+sub-width     = 150px
+border        = 1px solid #999
+
+body
+  margin 0
+  height 100%
+header
+  position absolute
+  height header-height
+  top 0
+  right 0
+  left 0
+  border-bottom border
+nav
+  position absolute
+  top header-height
+  right sub-width
+  bottom footer-height
+  left 0
+  overflow scroll
+main
+  position absolute
+  top header-height
+  right 0
+  bottom footer-height
+  left sub-width
+  border-left border
+  overflow scroll
+footer
+  position absolute
+  right 0
+  bottom 0
+  left 0
+  height footer-height
+  border-top border

@@ -1,0 +1,28 @@
+{
+  "name": "spa-layout-boilerplate",
+  "version": "0.0.1",
+  "description": "SPAでよくあるレイアウトの雛形",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install && stylus layout.styl -o layout.css",
+    "server": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hikarock/spa-layout-boilerplate.git"
+  },
+  "keywords": [
+    "spa",
+    "stylus"
+  ],
+  "author": "hikarock <i@hika69.com> (http://hika69.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hikarock/spa-layout-boilerplate/issues"
+  },
+  "homepage": "https://github.com/hikarock/spa-layout-boilerplate#readme",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "stylus": "^0.54.5"
+  }
+}
