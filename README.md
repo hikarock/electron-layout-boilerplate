@@ -14,6 +14,6 @@ $ npm run build
 $ npm start
 ```
 
-![sample](https://cloud.githubusercontent.com/assets/236607/17078886/a8b40728-513a-11e6-9e17-2f24f8604f52.png)
+![sample](https://cloud.githubusercontent.com/assets/236607/17269044/a52f14b0-5678-11e6-91e7-9aa41977513a.png)
 
 
