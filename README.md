@@ -9,6 +9,8 @@
 - nav, main の高さは可変でスクロール可能
 - nav, main の幅はバーをドラッグで変更可能
 
+![sample](https://cloud.githubusercontent.com/assets/236607/17269044/a52f14b0-5678-11e6-91e7-9aa41977513a.png)
+
 ## コンパイル
 
 ```
@@ -20,7 +22,3 @@ $ npm run build
 ```
 $ npm start
 ```
-
-![sample](https://cloud.githubusercontent.com/assets/236607/17269044/a52f14b0-5678-11e6-91e7-9aa41977513a.png)
-
-
