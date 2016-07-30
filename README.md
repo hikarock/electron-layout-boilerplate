@@ -2,6 +2,13 @@
 
 [Stylus](http://stylus-lang.com/) を使用した Electron でよくあるレイアウトの雛形。
 
+## よくあるレイアウトとは
+
+- header, footer の高さは固定
+- nav の幅が固定で main の幅が可変
+- nav, main の高さは可変でスクロール可能
+- nav, main の幅はバーをドラッグで変更可能
+
 ## コンパイル
 
 ```
