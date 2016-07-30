@@ -17,7 +17,7 @@
 $ npm run build
 ```
 
-## サーバー起動
+## Electron 起動
 
 ```
 $ npm start
